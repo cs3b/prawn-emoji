@@ -86,7 +86,7 @@ Prawn::Emoji.config.regex = ::Unicode::Emoji::REGEX_INCLUDE_TEXT
 
 ### Ruby
 
-2.5, 2.6, 2.7
+2.5, 2.6, 2.7, 3.0
 
 ### Prawn
 
